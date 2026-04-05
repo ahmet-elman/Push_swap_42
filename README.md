@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # push_swap - 42 Project
 
 ## 📌 Proje Hakkında
@@ -25,3 +26,7 @@ make
 
 Programı test etmek için:
 ./push_swap 3 2 5 1 4
+=======
+# Push_swap_42
+A collaborative project focused on sorting algorithms and data structure optimization within the 42 Network. Designed to sort data using two stacks with minimal operations
+>>>>>>> 0c92614f18155dece9f5876cc4617fcc58de8cc1
